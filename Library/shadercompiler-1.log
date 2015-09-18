@@ -1,0 +1,47 @@
+Base path: D:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-10096
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=1047 outsize=886 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4808 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4808 outsize=1453 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2847 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2847 outsize=1810 kw=POINT ok=1
+Cmd: preprocess
+  insize=676 outsize=1423 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4329 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4329 outsize=1485 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2355 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2355 outsize=1786 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2014 outsize=1697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2014 outsize=1063 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4064 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4064 outsize=1428 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2847 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2847 outsize=1339 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2355 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2355 outsize=1372 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4808 outsize=2997 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4808 outsize=1770 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4329 outsize=2997 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4329 outsize=1745 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
