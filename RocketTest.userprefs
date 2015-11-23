@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\MouseController.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\暗黑战神CODE\暗黑战神\client\Assets\Resources\cfg.xml">
     <Files>
       <File FileName="Assets\Scripts\MouseController.cs" Line="1" Column="1" />
+      <File FileName="..\暗黑战神CODE\暗黑战神\client\Assets\Resources\cfg.xml" Line="1" Column="35" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
